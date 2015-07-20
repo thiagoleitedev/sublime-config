@@ -1,4 +1,4 @@
-#Minhas Configurações para Sublime
+#Minhas Configurações para o Sublime Text
 
 > Lista de plugins, snippets e configurações que eu uso no meu Sublime text 3.
 
@@ -25,4 +25,4 @@
 * SideBarEnhancements
 * SublimeCodeIntel
 
-> Para utilizar basta colá-lo em / Users / <your_user> / Library / Application Support / Texto Sublime 3 / Pacotes / utilizador.
+> Para utilizar basta colá-lo em /Users/<your_user>/Library/Application Support/Sublime Text 3/Packages/User
