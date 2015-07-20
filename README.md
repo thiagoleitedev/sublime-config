@@ -1,6 +1,6 @@
 #Minhas Configurações para o Sublime Text
 
-> Lista de plugins, snippets e configurações que eu uso no meu Sublime text 3.
+> Plugins, snippets e configurações que eu uso no meu Sublime text 3.
 
 ###Lista de Plugins
 * Material Theme
