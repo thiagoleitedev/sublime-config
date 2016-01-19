@@ -1,29 +1,36 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"Material Theme",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
 		"Babel",
-		"Djaneiro",
+		"DocBlockr",
 		"Emmet",
 		"Git",
 		"GitGutter",
-		"Jekyll",
-		"ReactJS",
+		"Jade",
+		"Jasmine JS",
+		"JavaScript Snippets",
+		"Jekyll",	
+		"JSCS-Formatter",			
 		"MarkdownEditing",
+		"Material Theme",
 		"Package Control",
-		"Python Flake8 Lint",
-		"SCSS",
-		"CSS3",
-		"LESS",
 		"Sass",
-		"Stylus",
-		"LoremIpsum",
+		"SCSS",
 		"SideBarEnhancements",		
-		"SublimeCodeIntel"
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jscs",
+		"Travis YML Lint",
+		"WakaTime"
 	]
 }
