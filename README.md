@@ -3,21 +3,24 @@
 > Plugins, snippets e configurações que eu uso no meu Sublime text 3.
 
 ### Lista de Plugins
+
 * AdvancedNewFile,
 * All Autocomplete,
 * AngularJS,
 * AutoFileName,
-* Babel,
+* BracketHighlighter,
 * DocBlockr,
+* EditorConfig,
 * Emmet,
 * Git,
 * GitGutter,
 * Jade,
 * Jasmine JS,
-* JavaScript Snippets,
+* JavaScript & NodeJS Snippets,
+* JavaScript Patterns,
 * Jekyll,   
 * JSCS-Formatter,           
-* MarkdownEditing,
+* Markdown Extended,
 * Material Theme,
 * Package Control,
 * Sass,
@@ -26,7 +29,6 @@
 * Stylus,
 * SublimeCodeIntel,
 * SublimeLinter,
-* SublimeLinter-contrib-eslint,
 * SublimeLinter-jscs,
 * Travis YML Lint,
 * WakaTime
