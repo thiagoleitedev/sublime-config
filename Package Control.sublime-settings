@@ -7,8 +7,8 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
-		"AngularJS",
 		"AutoFileName",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"DocBlockr",
 		"EditorConfig",
@@ -18,18 +18,19 @@
 		"Jade",
 		"Jasmine JS",
 		"JavaScript & NodeJS Snippets",
-        "JavaScript Patterns",
-		"Jekyll",	
-		"Markdown Extended",				
+		"JavaScript Patterns",
+		"Jekyll",
+		"JSX",
+		"Markdown Extended",
 		"Material Theme",
+		"Numix Theme",
 		"Package Control",
 		"Sass",
 		"SCSS",
-		"SideBarEnhancements",		
+		"SideBarEnhancements",
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jscs",
-		"WakaTime"
+		"SublimeLinter-jscs"
 	]
 }
