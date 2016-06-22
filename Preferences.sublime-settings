@@ -18,9 +18,8 @@
 		"bower_components/**"
 	],
 
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
-	"theme": "Material-Theme.sublime-theme",
-	
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"theme": "Boxy Ocean.sublime-theme",
 	"ignored_packages":
 	[
 		"Markdown",
